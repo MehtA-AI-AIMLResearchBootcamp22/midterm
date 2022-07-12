@@ -1,2 +1,1 @@
-# midterm
-Yuriy Bidochko, Spencer Anderson, Arjun Somnali
+# Midterm Project by Yuriy Bidochko, Spencer Anderson, Arjun Somnali
