@@ -8,7 +8,7 @@
     <body>
         <div class = "center">
             <h1>MehtA+ AI/ML Research Bootcamp '22 midterm project</h1>
-            <h2>Arjun Salami, SpencerBlender, and Yuriy</h2>
+            <h2>Arjun, Spencer, and Yuriy</h2>
             <h3>Identifying Author of book from text.</h3>
             <p>When first attempting to solve this problem, the first question is "what really distinguishes the writing styles of men and women?" Our first thought was to do Latent Dirichlet Allocation, which categorizes text. But, we realized that since our dataset covered a specific range of topics, there would be similar categories. Therefore, LDA would not be a good idea. One instrumental finding was that on average, women use more pronouns, adverbs, and adjectives than men, which is something we could quantify and use to distinguish the documents.</p><br>
             <p> 
