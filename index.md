@@ -1,3 +1,4 @@
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MehtA-AI-AIMLResearchBootcamp22/midterm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -9,22 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-<html><>
-
-1. This is the best project ever.
-2. 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+https://gist.github.com/ybidochko/2688a00cc08ab5fd6fc469d3c40e7970
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
