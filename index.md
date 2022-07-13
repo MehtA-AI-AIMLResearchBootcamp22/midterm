@@ -15,7 +15,7 @@
             Before we knew about the differences, we were complacent with just putting the whole text through a model and letting it figure it out, which worked surprisingly well, but this doesn't help the user understand what's going on and often wastes resources like energy since the computer has to calculate larger datasets that are often very sparse. So we opted to use many of the natural language processing libraries we had been taught in class to separate the text by part of speech and then to specifically give the model only the pronouns, adjectives, and adverbs.
             </p>
             <h3>View Our Code!</h3>
-            <script src="<script src="https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js"></script>"></script>
+            <script src="https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js"></script>
         </div>
     </body> 
 </html>
