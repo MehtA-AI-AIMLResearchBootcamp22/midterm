@@ -15,7 +15,9 @@
             Before we were aware of the distintion, we were complacent with just putting the whole text through a model and letting it figure it out (Bag of Words), which worked surprisingly well. However, this doesn't help the user understand what's going on and often wastes resources like energy since the computer has to calculate larger datasets that are often very sparse. So we opted to use many of the natural language processing libraries we had been taught in class to separate the text by part of speech and then to specifically give the model only the pronouns, adjectives, and adverbs.
             </p>
             <p> 
-            With Support Vector Machine, we had about 95% accuracy. When using K-Nearest Neighbours, our accuracy was 85-93%
+            With Support Vector Machine, we had about 95% accuracy. <br>
+            When using K-Nearest Neighbours, our accuracy was 85-93%.<br>
+            While using Linear regression, we had 92-96% accuracy
             </p>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js"></script>
