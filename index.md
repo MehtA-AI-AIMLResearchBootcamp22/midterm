@@ -24,7 +24,7 @@
             <p id="link"></p>
             <script>
                 replacelink(){
-                    document.getElementById("number").innerHTML = "https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js";}
+                    document.getElementById("link").innerHTML = "https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js";}
             </script>
             <!--<script src="https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js"></script>!-->
         </div>
