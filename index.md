@@ -17,9 +17,9 @@
             </p>
             <h3>Model Accuracies</h3>
             <p> 
-            With Support Vector Machine, we had about 95% accuracy. <br>
+            With Support Vector Machine, we had about 95-97% accuracy. <br>
             When using K-Nearest Neighbours, our accuracy was 85-93%.<br>
-            While using Linear regression, we had 92-96% accuracy
+            While using Linear regression, we had 92-96% accuracy.
             </p>
             <h3>View Our Code!</h3>
             <script src="https://gist.github.com/ybidochko/88ab8a9b5f0540bb9c70dfec2e8f4ab2.js"></script>
